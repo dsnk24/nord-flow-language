@@ -1,2 +1,2 @@
-var n = 25;
-print n;
+var foo = 18;
+print foo;
