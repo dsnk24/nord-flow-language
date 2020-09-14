@@ -1,6 +1,5 @@
 import re
 
-
 class Lexer(object):
     def __init__(self, src_code) -> None:
         self.src_code = src_code

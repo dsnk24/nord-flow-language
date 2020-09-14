@@ -5,7 +5,7 @@ import code_parser
 def main():
     content = ""
 
-    with open('test.nord', 'r') as f:
+    with open('test.nf', 'r') as f:
         content = f.read()
     
     _lexer = lexer.Lexer(content)
